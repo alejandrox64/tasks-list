@@ -1,8 +1,8 @@
 .eslintrc.cjs
-package-lock.json
-package.json
-vite.config.js
-public/
+# package-lock.json
+# package.json
+# vite.config.js
+# public/
 assets/
 
 # Logs
